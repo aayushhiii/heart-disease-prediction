@@ -4,7 +4,7 @@ Created on Wed Jul 22 10:04:59 2020
 
 @author: Aashi
 """
-<meta http-equiv="refresh" content="0; url=http://aayushhiii.github.io/heart-disease-prediction/index.html" />
+
 
 import numpy as np
 from flask import Flask, request, jsonify, render_template
